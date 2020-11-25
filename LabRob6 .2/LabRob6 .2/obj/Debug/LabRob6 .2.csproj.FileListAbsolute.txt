@@ -1,0 +1,10 @@
+C:\Users\Роман Коновал\Desktop\HW\LabRob6 .2\LabRob6 .2\obj\Debug\LabRob6 .2.csprojAssemblyReference.cache
+C:\Users\Роман Коновал\Desktop\HW\LabRob6 .2\LabRob6 .2\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Роман Коновал\Desktop\HW\LabRob6 .2\LabRob6 .2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Роман Коновал\Desktop\HW\LabRob6 .2\LabRob6 .2\obj\Debug\LabRob6 .2.csproj.ResolveComReference.cache
+C:\Users\Роман Коновал\Desktop\HW\LabRob6 .2\LabRob6 .2\obj\Debug\LabRob6 .2.csproj.CoreCompileInputs.cache
+C:\Users\Роман Коновал\Desktop\HW\LabRob6 .2\LabRob6 .2\bin\Debug\LabRob6._2.exe.config
+C:\Users\Роман Коновал\Desktop\HW\LabRob6 .2\LabRob6 .2\bin\Debug\LabRob6._2.exe
+C:\Users\Роман Коновал\Desktop\HW\LabRob6 .2\LabRob6 .2\bin\Debug\LabRob6._2.pdb
+C:\Users\Роман Коновал\Desktop\HW\LabRob6 .2\LabRob6 .2\obj\Debug\LabRob6._2.exe
+C:\Users\Роман Коновал\Desktop\HW\LabRob6 .2\LabRob6 .2\obj\Debug\LabRob6._2.pdb
